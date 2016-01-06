@@ -1,4 +1,23 @@
 hi {
+  color: green;
+  text-align: center;
 
-  
+}
+
+.blog1 {
+  color: blue;
+  font-style: italic;
+}
+
+.blog2 {
+  color: orange;
+}
+
+.blog3 {
+  color: pink;
+}
+
+.about {
+  color:#2A09BF;
+  font-weight: bold;
 }
